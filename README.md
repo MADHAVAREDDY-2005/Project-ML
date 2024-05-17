@@ -2,9 +2,9 @@
 ### AIM :
 To Develop an accurate and reliable weather prediction model that takes into account multiple meteorological variables, historical weather data, and advanced machine learning algorithms to provide precise forecasts for various geographic locations and time horizons.
 ### EQUIPMENTS REQUIRED :
-1)Hardware PC's
+1. Hardware PC's
 
-2)jupyter Notebook with python installation
+2. jupyter Notebook with python installation
 ### PROGRAM :
 ### Developed By : K MADHAVA REDDY
 ### Register Number : 212223240064
